@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PLHomeAddressDictionaryKey</key>
+	<dict>
+		<key>City</key>
+		<string>PyongYang</string>
+		<key>Country</key>
+		<string>Democratic Peoples Republic North Korea</string>
+		<key>CountryCode</key>
+		<string>nk</string>
+		<key>Street</key>
+		<string>Thanks to @qwertyoruipz for making his KPP Bypass Public</string>
+		<key>ZIP</key>
+		<string>CODEINE PROMETHAZINE</string>
+	</dict>
+	<key>PLHomeLocationKey</key>
+	<dict>
+		<key>PLLatKey</key>
+		<string>AAAAAAAAAAAAAAAAAAAA</string>
+		<key>PLLonKey</key>
+		<real>1.337</real>
+	</dict>
+	<key>PLHomePlaceKey</key>
+	<string>AAAAAAAAAAAAAAAAAAAA</string>
+	<key>PLLanguageAndLocaleKey</key>
+	<string>en-US:en_US</string>
+	<key>PLLastGeoProviderIdKey</key>
+	<string>7618</string>
+	<key>PLLastLocationInfoFormatVer</key>
+	<integer>12</integer>
+	<key>PLLastRevGeoForcedProviderOutOfDateCheckVersionKey</key>
+	<integer>1</integer>
+	<key>PLLastRevGeoVerFileFetchDateKey</key>
+	<date>2018-08-24T17:44:51Z</date>
+	<key>PLLocationShiftVersionKey</key>
+	<integer>0</integer>
+</dict>
+</plist>

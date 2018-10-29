@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Books</key>
+	<array>
+		<dict>
+			<key>Inserted-By-iBooks</key>
+			<true/>
+			<key>Name</key>
+			<string>Exploit</string>
+			<key>Package Hash</key>
+			<string>6D773DF7AAF9D42EE4CFDA3ECB3ADF64</string>
+			<key>Path</key>
+			<integer>41414141414141</integer>
+			<key>importDate</key>
+			<date>2018-08-25T11:43:25Z</date>
+		</dict>
+	</array>
+</dict>
+</plist>
